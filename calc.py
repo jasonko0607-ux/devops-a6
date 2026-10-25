@@ -7,4 +7,4 @@ def subtract(a, b):
 
 
 def greeting(name):
-    return f"Hello, {name}! Welcome to DevOps."
+    return f"Hi, {name}! Welcome to DevOps."
