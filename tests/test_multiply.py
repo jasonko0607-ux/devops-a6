@@ -1,4 +1,4 @@
-rom calc import multiply
+from calc import multiply
 
 
 def test_multiply():
