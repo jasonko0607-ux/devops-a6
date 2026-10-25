@@ -10,4 +10,4 @@ def test_subtract():
 
 
 def test_greeting():
-    assert greeting("DevOps") == "Hi, DevOps!"
+    assert greeting("DevOps") == "Hi, DevOps! Welcome to DevOps."
