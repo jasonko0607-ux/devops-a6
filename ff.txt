@@ -1,1 +1,2 @@
 fast-forward demo: line 1
+fast-forward demo: line 2
