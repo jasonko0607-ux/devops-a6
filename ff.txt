@@ -1,2 +1,3 @@
 fast-forward demo: line 1
 fast-forward demo: line 2
+no-ff demo: line 3
